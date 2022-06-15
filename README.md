@@ -1,7 +1,8 @@
 # JSspp-store
 
 <h1>Before Use
-<p>make a folder called html inside html make another folder called images put all images in images put dev.html in html leave other files out
+<p>make a folder called html inside html make another folder called images put all images in images put dev.html in html leave other files out.
+ 
 <h2>About JSdevs
 
 <p>We are a team of devs that work with web programing
